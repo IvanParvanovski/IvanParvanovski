@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IvanParvanovski)
-![GitHub Streak](https://streak-stats.demolab.com/?user=IvanParvanovski&theme=tokyonight)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanParvanovski&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=IvanParvanovski&theme=tokyonight&hide_current_streak=true" alt="GitHub Streak" />
+</div>
+
 
 <!--
 **IvanParvanovski/IvanParvanovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
